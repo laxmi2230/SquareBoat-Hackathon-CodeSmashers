@@ -49,7 +49,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #ff9900;
+  background-color: #FF007F
 }
 
 @media (max-width: 450px) {
