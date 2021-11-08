@@ -110,6 +110,7 @@ export const Home = (props) => {
         <div className="container-fluid">
           <Banner/>
           <br/>
+          <br/>
           <h1 className="text-center" style={{ fontWeight: 900 }}>
             Non Fungible Tokens:
           </h1>
